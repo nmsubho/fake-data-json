@@ -5,17 +5,17 @@
     "permanent": "Kushtia"
   },
   "about_me": {
-    "short": "A Full-Stack Developer with a focus on JavaScript Technologies throughout the stack (Node.js, Express, MongoDB, React). Experience developing complete web applications using backend API systems.",
+    "short": "A Full-Stack Developer with a focus on JavaScript Technologies. Experience developing complete web applications using backend API systems.",
     "details1": "Allow me to provide you with a brief overview of my background. I hail from Kushtia and hold a BSc. degree in Information and Communication Engineering from Pabna University of Science and Technology. My current focus lies in the realm of Web Development.",
     "details2": "As an individual, I identify as extroverted and derive pleasure from engaging with diverse individuals and gaining insights into their unique experiences and perspectives. I take pride in being able to establish commonalities with strangers and ensuring their comfort in my presence.",
     "details3": "I possess over a year of professional experience in software development, with a specialization as a Web Developer. Furthermore, I have successfully developed applications utilizing technologies such as JavaScript, ES6, Angular, React, Next.js, Node.js, HTML, CSS, REST API, and GraphQL. My knowledge extends to working with continuous integration frameworks and cloud services such as Amazon AWS.",
     "details4": "In addition, I have expertise in code versioning systems, namely git/GitHub/bitbucket. With a strong background in problem-solving, I have a deep understanding of data structures and algorithmic principles."
   },
   "job": {
-    "company": "Dynamic Megasoft Limited",
-    "designation": "Software Developer",
-    "website": "https://dynamicsoft.us/",
-    "location": "Mohammadpur, Dhaka"
+    "company": "CSM Bangladesh Ltd.",
+    "designation": "Senior Software Engineer",
+    "website": "https://www.csmbangladesh.com/",
+    "location": "House# 01 (2nd,3rd,6th & 7th floor), Road# 04/A, Block# C1, Sector# 15, Uttara Diabari, Dhaka 1230"
   },
   "skills": [
     ["React JS", 85, "", null],
