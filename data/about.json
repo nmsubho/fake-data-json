@@ -1,61 +1,177 @@
 {
   "name": "Md. Nagib Mahfuz Subho",
   "address": {
-    "present": "Dhaka",
+    "present": "Mirpur, Dhaka",
     "permanent": "Kushtia"
   },
   "about_me": {
-    "short": "A Full-Stack Developer with a focus on JavaScript Technologies. Experience developing complete web applications using backend API systems.",
-    "details1": "Allow me to provide you with a brief overview of my background. I hail from Kushtia and hold a BSc. degree in Information and Communication Engineering from Pabna University of Science and Technology. My current focus lies in the realm of Web Development.",
-    "details2": "As an individual, I identify as extroverted and derive pleasure from engaging with diverse individuals and gaining insights into their unique experiences and perspectives. I take pride in being able to establish commonalities with strangers and ensuring their comfort in my presence.",
-    "details3": "I possess over a year of professional experience in software development, with a specialization as a Web Developer. Furthermore, I have successfully developed applications utilizing technologies such as JavaScript, ES6, Angular, React, Next.js, Node.js, HTML, CSS, REST API, and GraphQL. My knowledge extends to working with continuous integration frameworks and cloud services such as Amazon AWS.",
-    "details4": "In addition, I have expertise in code versioning systems, namely git/GitHub/bitbucket. With a strong background in problem-solving, I have a deep understanding of data structures and algorithmic principles."
+    "short": "Senior Software Engineer · Full-Stack (React · Next.js · Node.js). Delivering scalable web products across fintech & enterprise, building end-to-end solutions.",
+    "details1": "I'm a full-stack software engineer with 6+ years of experience building production-grade web applications — from pixel-perfect frontends to resilient backend APIs. I hail from Kushtia and hold a BSc. in Information and Communication Engineering from Pabna University of Science and Technology.",
+    "details2": "My core stack is JavaScript/TypeScript across the entire product surface: React, Next.js, and Angular on the frontend; Node.js and Express.js on the backend; PostgreSQL, MySQL, and MongoDB for data persistence; and AWS services including Lambda and Cognito for scalable serverless architectures and authentication.",
+    "details3": "I've worked across the full delivery lifecycle — from initial architecture and API design to performance tuning, code review, and deployment. Currently at nFACT, a B2B IoT service provider marketplace for the commercial building industry, I lead frontend development: architecting a scalable React component library, implementing AWS Cognito authentication with multi-factor auth, integrating Google Maps API, and mentoring junior developers.",
+    "details4": "What drives me is shipping software that actually works at scale: fast, maintainable, and built with the end user in mind. I care deeply about clean code, thoughtful API contracts, and interfaces that feel effortless. Open to connecting with product teams working on challenging, high-impact problems."
   },
   "job": {
-    "company": "CSM Bangladesh Ltd.",
+    "company": "nFACT",
     "designation": "Senior Software Engineer",
-    "website": "https://www.csmbangladesh.com/",
-    "location": "Uttara, Dhaka"
+    "website": "https://www.nfact.com/",
+    "location": "Dhaka, Bangladesh"
   },
   "skills": [
-    ["React JS", 85, "", null],
-    ["Next.js", 85, "#b87333", null],
-    ["Angular", 70, "#bj78ar", null],
-    ["Redux", 75, "#43ff64", null],
-    ["Redux Toolkit", 80, "#431964", null],
-    ["GraphQL", 75, "#b31964", null],
-    ["Material UI", 85, "color: #e65a9d", null],
-    ["Node.js", 80, "color: #5a8de6", null],
-    ["Express.js", 80, "color: #e6945a", null],
-    ["MongoDB", 70, "", null],
-    ["Tailwind CSS", 80, "color: #00782c", null],
-    ["React Bootstrap", 85, "#e6785a", null],
-    ["Javascript", 80, "#005878", null],
-    ["HTML", 85, "#b87333", null],
-    ["CSS", 85, "#c203fc", null],
-    ["Bootstrap", 85, "#e6785a", null]
+    [
+      "React JS",
+      90,
+      "#61dafb",
+      null
+    ],
+    [
+      "Next.js",
+      90,
+      "#b87333",
+      null
+    ],
+    [
+      "TypeScript",
+      85,
+      "#3178c6",
+      null
+    ],
+    [
+      "Javascript",
+      90,
+      "#005878",
+      null
+    ],
+    [
+      "Angular",
+      70,
+      "#dd0031",
+      null
+    ],
+    [
+      "Redux",
+      80,
+      "#43ff64",
+      null
+    ],
+    [
+      "Redux Toolkit",
+      80,
+      "#431964",
+      null
+    ],
+    [
+      "GraphQL",
+      75,
+      "#b31964",
+      null
+    ],
+    [
+      "Node.js",
+      85,
+      "#5a8de6",
+      null
+    ],
+    [
+      "Express.js",
+      85,
+      "#e6945a",
+      null
+    ],
+    [
+      "PostgreSQL",
+      75,
+      "#336791",
+      null
+    ],
+    [
+      "MySQL",
+      75,
+      "#00758f",
+      null
+    ],
+    [
+      "MongoDB",
+      75,
+      "#4db33d",
+      null
+    ],
+    [
+      "AWS (Lambda, Cognito)",
+      75,
+      "#ff9900",
+      null
+    ],
+    [
+      "Google Maps API",
+      80,
+      "#34a853",
+      null
+    ],
+    [
+      "Material UI",
+      85,
+      "#e65a9d",
+      null
+    ],
+    [
+      "Tailwind CSS",
+      85,
+      "#00782c",
+      null
+    ],
+    [
+      "React Bootstrap",
+      85,
+      "#e6785a",
+      null
+    ],
+    [
+      "HTML",
+      90,
+      "#b87333",
+      null
+    ],
+    [
+      "CSS",
+      85,
+      "#c203fc",
+      null
+    ],
+    [
+      "Bootstrap",
+      85,
+      "#7952b3",
+      null
+    ]
   ],
   "typed_skills": [
+    "Senior Software Engineer",
+    "Full-Stack Developer",
     "Expert in React JS",
     "Expert in Next.js",
-    "Expert in Redux",
+    "Expert in TypeScript",
     "Expert in Node.js",
     "Expert in Express.js",
+    "Expert in Redux",
     "Expert in Material UI",
     "Expert in Tailwind CSS",
-    "Expert in React Bootstrap",
-    "Good Understanding of GraphQL",
+    "Experienced with AWS Lambda & Cognito",
+    "Experienced with Google Maps API",
+    "Good Understanding of PostgreSQL & MySQL",
     "Good Understanding of MongoDB",
+    "Good Understanding of GraphQL",
     "Good Understanding of Angular"
   ],
   "contact": {
     "email": "nmsubho@gmail.com",
-    "mobile": "01521414075",
+    "mobile": "+8801521414075",
     "facebook": "https://www.facebook.com/nmsubho",
     "instagram": "https://www.instagram.com/nm.subho/",
     "linkedin": "https://www.linkedin.com/in/nmsubho/",
     "github": "https://github.com/nmsubho",
-    "resume": "https://drive.google.com/uc?export=download&id=1bSePoG7r_JwIVE0PVD3W1KlLFDdhXJ5U"
+    "resume": "https://drive.google.com/uc?export=download&id=1bSePoG7r_JwIVE0PVD3W1KlLFDdhXJ5U",
+    "portfolio": "https://nmsubho.vercel.app/"
   },
   "blogs": [
     {
@@ -130,7 +246,9 @@
     },
     {
       "id": 7,
-      "screens": ["https://i.ibb.co/Z2dByTH/kk-1.png"],
+      "screens": [
+        "https://i.ibb.co/Z2dByTH/kk-1.png"
+      ],
       "name": "Knotty Knickers",
       "type": "E-Commerce",
       "short_des": "Knotty is a lingerie company inviting you to re-imagine yourself in carefully designed underwear and lingerie made for women by women.",
